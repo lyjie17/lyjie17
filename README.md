@@ -25,7 +25,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CLion-282C34?logo=clion&logoColor=21D789" alt="CLion logo" title="CLion" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
 
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
