@@ -1,6 +1,6 @@
 # About Me 🥖
 - 👋 Hi, I’m Yijie Li
-- 👀 I’m seeking a software engineer intern position
+- 👀 I’m seeking a software engineer position
 - 🧑‍🎓 I’m currently pursuing Master of Science in Computer Science at University of Chicago
 - 📫 How to reach me: lyjie17@cs.uchicago.edu
 
